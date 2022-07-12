@@ -1,0 +1,140 @@
+[
+ {
+   "prod_cat_code": 1,
+   "prod_cat": "Clothing",
+   "prod_sub_cat_code": 4,
+   "prod_subcat": "Mens"
+ },
+ {
+   "prod_cat_code": 1,
+   "prod_cat": "Clothing",
+   "prod_sub_cat_code": 1,
+   "prod_subcat": "Women"
+ },
+ {
+   "prod_cat_code": 1,
+   "prod_cat": "Clothing",
+   "prod_sub_cat_code": 3,
+   "prod_subcat": "Kids"
+ },
+ {
+   "prod_cat_code": 2,
+   "prod_cat": "Footwear",
+   "prod_sub_cat_code": 1,
+   "prod_subcat": "Mens"
+ },
+ {
+   "prod_cat_code": 2,
+   "prod_cat": "Footwear",
+   "prod_sub_cat_code": 3,
+   "prod_subcat": "Women"
+ },
+ {
+   "prod_cat_code": 2,
+   "prod_cat": "Footwear",
+   "prod_sub_cat_code": 4,
+   "prod_subcat": "Kids"
+ },
+ {
+   "prod_cat_code": 3,
+   "prod_cat": "Electronics",
+   "prod_sub_cat_code": 4,
+   "prod_subcat": "Mobiles"
+ },
+ {
+   "prod_cat_code": 3,
+   "prod_cat": "Electronics",
+   "prod_sub_cat_code": 5,
+   "prod_subcat": "Computers"
+ },
+ {
+   "prod_cat_code": 3,
+   "prod_cat": "Electronics",
+   "prod_sub_cat_code": 8,
+   "prod_subcat": "Personal Appliances"
+ },
+ {
+   "prod_cat_code": 3,
+   "prod_cat": "Electronics",
+   "prod_sub_cat_code": 9,
+   "prod_subcat": "Cameras"
+ },
+ {
+   "prod_cat_code": 3,
+   "prod_cat": "Electronics",
+   "prod_sub_cat_code": 10,
+   "prod_subcat": "Audio and video"
+ },
+ {
+   "prod_cat_code": 4,
+   "prod_cat": "Bags",
+   "prod_sub_cat_code": 1,
+   "prod_subcat": "Mens"
+ },
+ {
+   "prod_cat_code": 4,
+   "prod_cat": "Bags",
+   "prod_sub_cat_code": 4,
+   "prod_subcat": "Women"
+ },
+ {
+   "prod_cat_code": 5,
+   "prod_cat": "Books",
+   "prod_sub_cat_code": 7,
+   "prod_subcat": "Fiction"
+ },
+ {
+   "prod_cat_code": 5,
+   "prod_cat": "Books",
+   "prod_sub_cat_code": 12,
+   "prod_subcat": "Academic"
+ },
+ {
+   "prod_cat_code": 5,
+   "prod_cat": "Books",
+   "prod_sub_cat_code": 10,
+   "prod_subcat": "Non-Fiction"
+ },
+ {
+   "prod_cat_code": 5,
+   "prod_cat": "Books",
+   "prod_sub_cat_code": 11,
+   "prod_subcat": "Children"
+ },
+ {
+   "prod_cat_code": 5,
+   "prod_cat": "Books",
+   "prod_sub_cat_code": 3,
+   "prod_subcat": "Comics"
+ },
+ {
+   "prod_cat_code": 5,
+   "prod_cat": "Books",
+   "prod_sub_cat_code": 6,
+   "prod_subcat": "DIY"
+ },
+ {
+   "prod_cat_code": 6,
+   "prod_cat": "Home and kitchen",
+   "prod_sub_cat_code": 2,
+   "prod_subcat": "Furnishing"
+ },
+ {
+   "prod_cat_code": 6,
+   "prod_cat": "Home and kitchen",
+   "prod_sub_cat_code": 10,
+   "prod_subcat": "Kitchen"
+ },
+ {
+   "prod_cat_code": 6,
+   "prod_cat": "Home and kitchen",
+   "prod_sub_cat_code": 11,
+   "prod_subcat": "Bath"
+ },
+ {
+   "prod_cat_code": 6,
+   "prod_cat": "Home and kitchen",
+   "prod_sub_cat_code": 12,
+   "prod_subcat": "Tools"
+ }
+]
